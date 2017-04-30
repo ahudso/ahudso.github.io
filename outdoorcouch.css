@@ -1,0 +1,80 @@
+html {
+      height: 100%;
+      background-color: white;
+    }
+    body {
+       width: 800px;
+       height: 100%;
+    }
+    #circle {
+     width: 400px;
+     height: 180px;
+     background: #ffcc00;
+     /*-moz-border-radius: 50%;*/
+     /*-webkit-border-radius: 50%;*/
+     border-radius: 50%;
+     /*padding:15px;*/
+   }
+   #rectangle {
+	width: 480px;
+	height: 190px;
+	background: #003399;
+}
+    header {
+        background-color: #003399;
+        width: 400px;
+        padding-left: 50px;
+        border: 3px solid black;
+        font-size:15;
+        display: block;
+        font-family: verdana;
+    }
+  }
+    nav {
+        float: left;
+        width: 800px;
+    }
+    nav ul {
+        padding: ;
+        float: left;
+        border-bottom: ;
+        list-style-type: none;
+    }
+    nav li {
+        float: left;
+    }
+    nav ul li a {
+        background-color: #003399;
+        display: block;
+        border-bottom: 3px solid black;
+        border-top: 3px solid black;
+        height: 25px;
+        padding: 12px 18px 8px 18px;
+        vertical-align: middle;
+    }
+    a {
+        color:black;
+
+    }
+    section {
+        width: 73%;
+        display: inline-block;
+        float: left;
+    }
+    aside {
+        width: 17%;
+        display: inline-block;
+        background-color:;
+        padding:;
+        min-height: 100%;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 790px;
+        background-color:;
+        color:;
+        clear: both;
+        display: block;
+    }
